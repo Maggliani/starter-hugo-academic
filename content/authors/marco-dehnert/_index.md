@@ -5,8 +5,9 @@ avatar_filename: avatar.jpg
 interests:
   - Human-Machine Communication
   - Human-AI Communication
-  - Critical Cultural Studies
+  - Critical/Cultural Studies
   - Social Impact of Communication Technologies
+  - Intersectional Rhetoric
 social:
   - display:
       header: false
