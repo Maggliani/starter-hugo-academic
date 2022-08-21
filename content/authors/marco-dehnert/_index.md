@@ -4,7 +4,7 @@ role: Doctoral Student
 avatar_filename: 01416066.jpg
 interests: []
 social: []
-superuser: false
+superuser: true
 ---
 I am a Doctoral Student and Graduate Teaching Associate in the Hugh Downs School of Human Communication at Arizona State University. I am a multi-method social scientist who studies Human-Machine Communication, Human-AI Communication, and the social impact of communication technologies. 
 
