@@ -2,7 +2,11 @@
 title: Marco Dehnert
 role: Doctoral Student
 avatar_filename: avatar.jpg
-interests: []
+interests:
+  - Human-Machine Communication
+  - Human-AI Communication
+  - Critical Cultural Studies
+  - Social Impact of Communication Technologies
 social:
   - display:
       header: false
