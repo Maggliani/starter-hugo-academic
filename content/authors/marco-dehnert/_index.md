@@ -29,6 +29,20 @@ social:
     link: https://orcid.org/0000-0002-7456-0743
     icon_pack: ai
     icon: orcid
+organizations:
+  - name: Arizona State University
+    url: https://search.asu.edu/profile/3141386
+education:
+  courses:
+    - course: PhD in Communication, expected 2024
+      institution: Arizona State University
+      year: ""
+    - course: MA in Communication
+      institution: Arizona State University
+      year: 2019
+    - course: BA in Rhetoric & Media Studies
+      institution: University of Tübingen, Germany
+      year: 2020
 superuser: true
 ---
 I am a Doctoral Student and Graduate Teaching Associate in the Hugh Downs School of Human Communication at Arizona State University. I am a multi-method social scientist who studies Human-Machine Communication, Human-AI Communication, and the social impact of communication technologies. 
