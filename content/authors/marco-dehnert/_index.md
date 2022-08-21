@@ -6,7 +6,7 @@ interests: []
 social:
   - display:
       header: false
-    link: marco.dehnert@asu.edu
+    link: mailto:marco.dehnert@asu.edu
     icon_pack: fas
     icon: envelope
   - display:
