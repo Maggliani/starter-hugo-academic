@@ -3,7 +3,32 @@ title: Marco Dehnert
 role: Doctoral Student
 avatar_filename: 01416066.jpg
 interests: []
-social: []
+social:
+  - display:
+      header: false
+    link: marco.dehnert@asu.edu
+    icon_pack: fas
+    icon: envelope
+  - display:
+      header: false
+    link: https://twitter.com/MarcoDehnert
+    icon_pack: fab
+    icon: twitter
+  - display:
+      header: false
+    link: https://scholar.google.de/citations?user=oGX5-0IAAAAJ&hl=en&inst=1960582506653781529&oi=ao
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/marco-dehnert-624b1a18b/en?trk=people-guest_people_search-card
+    icon_pack: fab
+    icon: linkedin
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-7456-0743
+    icon_pack: ai
+    icon: orcid
 superuser: true
 ---
 I am a Doctoral Student and Graduate Teaching Associate in the Hugh Downs School of Human Communication at Arizona State University. I am a multi-method social scientist who studies Human-Machine Communication, Human-AI Communication, and the social impact of communication technologies. 
