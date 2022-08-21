@@ -1,7 +1,7 @@
 ---
 title: Marco Dehnert
 role: Doctoral Student
-avatar_filename: 01416066.jpg
+avatar_filename: avatar.jpg
 interests: []
 social:
   - display:
