@@ -34,6 +34,11 @@ social:
     link: https://orcid.org/0000-0002-7456-0743
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    link: https://www.lieselsharabi.com/lab
+    icon_pack: fas
+    icon: microscope
 organizations:
   - name: Arizona State University
     url: https://search.asu.edu/profile/3141386
