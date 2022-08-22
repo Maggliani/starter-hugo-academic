@@ -12,3 +12,5 @@ design:
 ---
 
 ![screen reader text](7e9456d0.jpg "")
+{{ $image := 7e9456d0.jpg.Resize "x400" }}
+
