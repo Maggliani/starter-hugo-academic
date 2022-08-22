@@ -1,5 +1,5 @@
 ---
-title: "Becoming Human? Ableism and Control in Detroit: Become Human and the
+title: "Becoming Human? Ableism and Control in _Detroit: Become Human_ and the
   Implications for Human-Machine Communication"
 publication_types:
   - "2"
