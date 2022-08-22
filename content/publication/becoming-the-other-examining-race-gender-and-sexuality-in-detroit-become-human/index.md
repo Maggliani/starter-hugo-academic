@@ -1,6 +1,6 @@
 ---
-title: "Becoming the Other: Examining Race, Gender, and Sexuality in _Detroit:
-  Become Human_"
+title: "Becoming the Other: Examining Race, Gender, and Sexuality in Detroit:
+  Become Human"
 publication_types:
   - "2"
 authors:
