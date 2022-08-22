@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Twitter Feed
+title: Twitter
 subtitle:
 weight: 40  # section position on page
 design:
