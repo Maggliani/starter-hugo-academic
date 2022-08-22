@@ -11,5 +11,4 @@ design:
   columns: '1'
 ---
 
-![screen reader text](7e9456d0.jpg "" Resize "x400" )
-
+![screen reader text](7e9456d0.jpg "")
