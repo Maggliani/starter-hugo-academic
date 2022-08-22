@@ -1,3 +1,4 @@
+---
 widget: featured
 headless: true  # This file represents a page section.
 title: Media
@@ -23,3 +24,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+---
