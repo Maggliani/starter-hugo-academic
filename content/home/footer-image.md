@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Contact
+title: Feel free to contact me via email (marco.dehnert@asu.edu) or Twitter (@MarcoDehnert)
 subtitle:
 weight: 50  # section position on page
 design:
@@ -11,6 +11,4 @@ design:
   columns: '2'
 ---
 
-Feel free to contact me via email (marco.dehnert@asu.edu) or Twitter (@MarcoDehnert).
-
-![screen reader text](7e9456d0.jpg "caption")
+![screen reader text](7e9456d0.jpg "")
