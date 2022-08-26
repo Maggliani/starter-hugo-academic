@@ -49,10 +49,10 @@ education:
       year: ""
     - course: MA in Communication
       institution: Arizona State University
-      year: 2019
+      year: 2020
     - course: BA in Rhetoric & Media Studies
       institution: University of Tübingen, Germany
-      year: 2020
+      year: 2019
 superuser: true
 ---
 I am a Doctoral Student and Graduate Teaching Associate in the Hugh Downs School of Human Communication at Arizona State University. I am a multi-method social scientist who studies Human-Machine Communication, Human-AI Communication, and the social impact of communication technologies. 
