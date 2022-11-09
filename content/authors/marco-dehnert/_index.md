@@ -27,8 +27,8 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/marco-dehnert-624b1a18b/en?trk=people-guest_people_search-card
-    icon_pack: fab
-    icon: linkedin
+    icon_pack: fas
+    icon: microscope
   - display:
       header: false
     link: https://orcid.org/0000-0002-7456-0743
