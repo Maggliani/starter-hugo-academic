@@ -37,8 +37,8 @@ social:
   - display:
       header: false
     link: https://www.lieselsharabi.com/lab
-    icon_pack: fas
-    icon: microscope
+    icon_pack: custom
+    icon: rtlab
 organizations:
   - name: Arizona State University
     url: https://search.asu.edu/profile/3141386
