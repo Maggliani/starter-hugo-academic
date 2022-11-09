@@ -7,6 +7,7 @@ authors:
   - Marco Dehnert
   - Daniel C. Brouwer
   - Lore/tta LeMaster
+doi: https://doi.org/10.4324/9781003144809-43
 publication: The Routledge Handbook of Queer Rhetoric
 draft: false
 featured: false
