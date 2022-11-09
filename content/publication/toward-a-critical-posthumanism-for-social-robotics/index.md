@@ -3,8 +3,7 @@ title: Toward a Critical Posthumanism for Social Robotics
 publication_types:
   - "2"
 authors:
-  - Dehnert
-  - Marco
+  - Marco Dehnert
 doi: https://doi.org/10.1007/s12369-022-00930-w
 publication: International Journal of Social Robotics
 abstract: "Free view access available here: https://rdcu.be/cYGLn"
