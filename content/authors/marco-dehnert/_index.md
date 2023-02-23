@@ -1,6 +1,6 @@
 ---
 title: Marco Dehnert
-role: Doctoral Student
+role: Doctoral Candidate
 avatar_filename: avatar.jpg
 interests:
   - Human-Machine Communication
@@ -55,12 +55,14 @@ education:
       year: 2019
 superuser: true
 ---
-I am a Doctoral Student and Graduate Teaching Associate in the Hugh Downs School of Human Communication at Arizona State University. I am a multi-method social scientist who studies Human-Machine Communication, Human-AI Communication, and the social impact of communication technologies. 
+I am a Doctoral Candidate and Graduate Teaching Associate in the Hugh Downs School of Human Communication at Arizona State University. I am a multi-method social scientist who studies Human-Machine Communication, Human-AI Communication, and the social impact of communication technologies. 
 
 I use qualitative, quantitative, and rhetorical methods including interviews, textual analysis, thematic analysis, surveys, and experiments. My work integrates methods, concepts, and theories from a variety of disciplines and areas including communication studies, critical/cultural studies, human-computer and human-robot interaction, as well as sexuality studies. 
 
-Currently, I am working on my PhD with a focus on how humans build relationships with machines such as social robots and AI technologies. In particular, my dissertation combines qualitative and quantitative methods to explore human-machine relationality. 
+Currently, I am working on my PhD with a focus on how humans build relationships with machines such as social robots and AI technologies. In particular, my dissertation uses qualitative methods to explore human-machine relationality (how humans form relationships with machines like robots). 
 
-My research has been published in a variety of academic journals such as Human Communication Research, Human-Machine Communication, Review of Communication, and in book chapters published by Routledge and SAGE (forthcoming). Our article Dehnert & Mongeau (2022) received the 2022 Outstanding Article Award from the Human Communication and Technology Division of the National Communication Association.
+My research has been published in a variety of academic journals such as Human Communication Research, Human-Machine Communication, Review of Communication, and in book chapters published by Routledge and SAGE (forthcoming). Our article [Dehnert & Mongeau (2022)](https://www.marcodehnert.com/publication/persuasion-in-the-age-of-artificial-intelligence-ai-theories-and-complications-of-ai-based-persuasion/) received the 2022 Outstanding Article Award from the Human Communication and Technology Division of the National Communication Association.
 
 In June 2022, I was featured on the [National Communication Association's Podcast Series "Communication Matters"](https://www.podbean.com/ew/pb-3vugw-12574ca/) on the topic of alternative academic careers for communication graduate students. In October 2022, I was featured on the German science communication portal [Wissenschaftskommunikation.de in an interview](https://www.wissenschaftskommunikation.de/community-is-at-the-heart-of-transformation-62039/) about the topic of transformation. 
+
+Don't hesitate to contact me. I am also happy to share PDFs of my publications with you in case you or your institutions does not have access. 
