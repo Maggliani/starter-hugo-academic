@@ -65,4 +65,4 @@ My research has been published in a variety of academic journals such as Human C
 
 In June 2022, I was featured on the [National Communication Association's Podcast Series "Communication Matters"](https://www.podbean.com/ew/pb-3vugw-12574ca/) on the topic of alternative academic careers for communication graduate students. In October 2022, I was featured on the German science communication portal [Wissenschaftskommunikation.de in an interview](https://www.wissenschaftskommunikation.de/community-is-at-the-heart-of-transformation-62039/) about the topic of transformation. 
 
-Don't hesitate to contact me. I am also happy to share PDFs of my publications with you in case you or your institutions does not have access. 
+Don't hesitate to contact me. I am also happy to share PDFs of my publications with you in case you or your institution does not have access. 
