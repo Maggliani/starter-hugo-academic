@@ -1,5 +1,5 @@
 ---
-title: "Beyond ownership: Human-robot relationships between property and personhood"
+title: "Beyond Ownership: Human-Robot Relationships between Property and Personhood"
 publication_types:
   - "2"
 authors:
