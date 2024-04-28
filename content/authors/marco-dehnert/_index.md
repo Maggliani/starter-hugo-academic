@@ -1,6 +1,6 @@
 ---
 title: Marco Dehnert
-role: Doctoral Candidate
+role: Incoming Assistant Professor of Communication and Technology
 avatar_filename: avatar.jpg
 interests:
   - Human-Machine Communication
@@ -44,22 +44,22 @@ organizations:
     url: https://search.asu.edu/profile/3141386
 education:
   courses:
-    - course: PhD in Communication, expected 2024
-      institution: Arizona State University
-      year: ""
+    - course: PhD in Communication
+      institution: Arizona State University, USA
+      year: 2024
     - course: MA in Communication
-      institution: Arizona State University
+      institution: Arizona State University, USA
       year: 2020
     - course: BA in Rhetoric & Media Studies
       institution: University of Tübingen, Germany
       year: 2019
 superuser: true
 ---
-I am a Doctoral Candidate and Graduate Teaching Associate in the Hugh Downs School of Human Communication at Arizona State University. I am a multi-method social scientist who studies Human-Machine Communication, Human-AI Communication, and the social impact of communication technologies. 
+I am an incoming Assistant Professor of Communication and Technology at the University of Arkansas and a current graduate teaching associate in the Hugh Downs School of Human Communication at Arizona State University. I am a multi-method social scientist who studies Human-Machine Communication, Human-AI Communication, and the social impact of communication technologies. 
 
 I use qualitative, quantitative, and rhetorical methods including interviews, textual analysis, thematic analysis, surveys, and experiments. My work integrates methods, concepts, and theories from a variety of disciplines and areas including communication studies, critical/cultural studies, human-computer and human-robot interaction, as well as sexuality studies. 
 
-Currently, I am working on my PhD with a focus on how humans build relationships with machines such as social robots and AI technologies. In particular, my dissertation uses qualitative methods to explore human-machine relationality (how humans form relationships with machines like robots and interactive dolls). 
+In my PhD, I focused on how humans build relationships with machines such as social robots and AI technologies. In particular, my [dissertation](https://hdl.handle.net/2286/R.2.N.193007) used qualitative methods to explore human-machine relationality (how humans form relationships with machines like robots and interactive dolls). 
 
 My research has been published in a variety of academic journals such as Human Communication Research, Human-Machine Communication, the International Journal of Social Robotics, and in book chapters published by Routledge and SAGE. Our article [Dehnert & Mongeau (2022)](https://www.marcodehnert.com/publication/persuasion-in-the-age-of-artificial-intelligence-ai-theories-and-complications-of-ai-based-persuasion/) received the 2022 Outstanding Article Award from the Human Communication and Technology Division of the National Communication Association.
 
