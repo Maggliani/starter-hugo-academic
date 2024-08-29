@@ -1,0 +1,5 @@
+# Netlify redirects
+# Automatically generated
+# Documentation: https://docs.netlify.com/routing/redirects/
+
+/*    https://marcodehnert.webflow.io/:splat   301!
