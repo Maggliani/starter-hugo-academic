@@ -22,6 +22,6 @@
 
 [[redirects]]
   from = "https://www.marcodehnert.com/"
-  to = "https://google.com/"
+  to = "https://marcodehnert.webflow.io/"
   status = 301
   force = true
