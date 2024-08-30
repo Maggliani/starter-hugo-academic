@@ -21,7 +21,7 @@
     debug = true
 
 [[redirects]]
-  from = "https://marcodehnert.com/"
-  to = "https://marcodehnert.webflow.io/"
+  from = "https://www.marcodehnert.com/"
+  to = "https://www.marcodehnert.webflow.io/"
   status = 301
   force = true
